@@ -1,0 +1,8 @@
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.csproj.AssemblyReference.cache
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.AssemblyInfoInputs.cache
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.AssemblyInfo.cs
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.csproj.CoreCompileInputs.cache
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.RazorAssemblyInfo.cache
+C:\Users\SantiguzmaN\Documents\prueba admision .net\ApiPrueba\ApiPrueba\obj\Debug\netcoreapp3.1\ApiPrueba.RazorAssemblyInfo.cs
